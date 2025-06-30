@@ -28,7 +28,7 @@ TecBlog/
 2. Abra o arquivo `Index.HTML` em seu navegador.
 
 ## Créditos
-Desenvolvido por [Seu Nome].
+Desenvolvido por [Gabriel S. Arruda].
 
 ---
 Este projeto é apenas para fins educacionais.
